@@ -1,0 +1,20 @@
+# Root .gitignore - ignore node modules and common OS/editor files
+
+# Node
+node_modules/
+
+# Vite / build
+dist/
+dist-ssr/
+
+# Logs
+*.log
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
